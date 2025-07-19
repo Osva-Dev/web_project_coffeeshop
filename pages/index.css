@@ -187,7 +187,7 @@
   line-height: 52px;
 }
 
-.form__reservation {
+.reservation__form {
   width: 100%; /* Ocupa todo el ancho disponible */
   max-width: 385px; /* Máximo ancho del formulario */
   margin-top: 0;
